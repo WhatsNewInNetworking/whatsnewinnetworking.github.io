@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Random Void Bits
-email: your-email@example.com
+title: Whats New In Networking
+email: WhatsNewInNetworking@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is for updates, errata, and random thoughts/projects.
+  This site is for computer networking, computer networking related content, and other related topics.
 baseurl:  # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  
+twitter_username: WhatsNewInNet
+github_username:  WhatsNewInNetworking
 
 # Build settings
 # theme: minima
